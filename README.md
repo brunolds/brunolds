@@ -7,6 +7,21 @@
 
 - Skills -
 
+HTML5/CSS
+Linux
+Jmeter 
+Postman 
+Git / Github
+Virtualização
+Windows Server
+SQL Server
+
+
+– LÍNGUAS ESTRANGEIRAS –
+
+Inglês Técnico - Intermediário;
+Espanhol - Básico;
+
 
 
 <!---
